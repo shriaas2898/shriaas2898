@@ -7,5 +7,5 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Open CV, AR and Blender
-- 🌱 I’m currently learning Julia
+- 🌱 I’m currently learning Drupal
 - 😄 Pronouns: she/her
